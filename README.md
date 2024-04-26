@@ -5,10 +5,9 @@
 Hey there, I'm R. Gage Ward! 👋 I'm a Computer Science Major pursuing by Bachelor's degree who's passionate about Data Science and Machine Learning. When I'm not coding, you can find me playing video games with friends or playing piano.🌟
 
 ## Projects 🛠️
-<!---
-### [Project Name 1](link-to-project-1)
-📝 Dive into the world of [Project Name 1]! This project aims to [Project Purpose]. Strap in and let's explore together!
 
+### [Linked Dictionary](https://github.com/rgward001/Linked-Dictionary/tree/main)
+<!---
 ### [Project Name 2](link-to-project-2)
 🚀 Blast off with [Project Name 2]! This project is all about [Project Objective]. Prepare for liftoff, because we're reaching for the stars! 🌌
 
