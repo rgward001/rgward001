@@ -20,5 +20,5 @@ Got a question, suggestion, or just want to say hi? Shoot me an email at rgward0
 ## Connect with Me 💬
 
 Let's stay connected! Find me on:
-- [LinkedIn](https://www.linkedin.com/in/roger-ward-22a662219/)
+- [LinkedIn](https://www.linkedin.com/in/roger-gage-ward/)
 
