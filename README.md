@@ -15,7 +15,7 @@ Hey there, I'm R. Gage Ward! 👋 I'm a Computer Science Major pursuing by Bache
 -->
 ## Contact Me 📬
 
-Got a question, suggestion, or just want to say hi? Shoot me an email at rgward001@gmail.com!😊
+Got a question, suggestion, or just want to say hi? Shoot me an email at gagedata@icloud.com!😊
 
 ## Connect with Me 💬
 
