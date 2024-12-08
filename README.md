@@ -8,7 +8,7 @@ Hey there, I'm R. Gage Ward! 👋 I'm a Computer Science Major pursuing by Bache
 
 ### [Linked Dictionary](https://github.com/rgward001/Linked-Dictionary/tree/main)
 
-### [Kight's Tour](https://github.com/rgward001/Knight-s-Tour)
+### [Knight's Tour](https://github.com/rgward001/Knight-s-Tour)
 <!---
 ### [Project Name 3](link-to-project-3)
 🎨 Get creative with [Project Name 3]! Unleash your imagination and join us on a journey to [Project Destination]. Let's paint the town colorful! 🎨
